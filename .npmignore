@@ -1,0 +1,6 @@
+/tests/
+QUICKSTART.md
+/examples/
+/dist/
+dist/chsi-verify.prod.js
+/.idea/
