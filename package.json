@@ -1,6 +1,6 @@
 {
   "name": "chsi-verify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "学信网学籍/学历/学位信息验证库",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
